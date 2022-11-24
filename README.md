@@ -21,6 +21,9 @@ https://modrinth.com/mod/cit-resewn
 Continuity - connected textures!<br/>
 https://modrinth.com/mod/continuity
 
+Crafty Crashes - crash logs hard no more<br/>
+https://github.com/Chocohead/Crafty-Crashes
+
 Cull less leaves - cull leaves while keeping it beautiful<br/>
 https://modrinth.com/mod/cull-less-leaves
 
@@ -125,4 +128,3 @@ https://modrinth.com/mod/zoomify
 <br/>
 <b>Mod makers for making the game actually playable on older systems</b>
 <br/>
-<b>I will add all of the mod makers in a later date</b>
