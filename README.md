@@ -114,7 +114,7 @@ https://modrinth.com/mod/starlight
 Xaero's Minimap (fairplay edition) - minimap mod<br/>
 https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition
 
-Xaero's Worl map - a fullscreen world map for Minecraft<br/>
+Xaero's World map - a fullscreen world map for Minecraft<br/>
 https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 
 YetAnotherConfigLib - A builder-based configuration library for Minecraft<br/>
