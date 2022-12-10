@@ -120,11 +120,14 @@ https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 YetAnotherConfigLib - A builder-based configuration library for Minecraft<br/>
 https://modrinth.com/mod/yacl
 
+ViaFabric - Connect to different Minecraft versions!<br/>
+https://modrinth.com/mod/viafabric
+
 Zoomify - a zoom mod with infinite customizability!<br/>
 https://modrinth.com/mod/zoomify
 
 # Credits
 <b>Mojang Studios for creating Minecraft</b>
 <br/>
-<b>Mod makers for making the game actually playable on older systems</b>
+<b>Mod makers for making the game actually playable on older systems and making lots of qol changes</b>
 <br/>
